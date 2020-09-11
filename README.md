@@ -9,11 +9,11 @@ information about version check is stored in temporary file
 i.e.
 /tmp/endpoints_clientid_latestversion.txt
 ```
-"050f86bf-2a6b-4d8e-af2a-58d4576ea473
+050f86bf-2a6b-4d8e-af2a-58d4576ea473
 2020090100"
 ```
 
-If version is up to date (published vs latest check stored on localhost) file containing "./update_files/o365_version_xxxxxxxxxx.txt" will not be created or replaced if already exisitng.  
+If version is up to date (published vs latest check stored on localhost), file containing all IPs ("./update_files/o365_version_xxxxxxxxxx.txt") will not be created or replaced if already exisitng.  
 "endpoints_clientid_latestversion.txt" needs to be deleted to enforce such action. 
 
 IMPORTANT
