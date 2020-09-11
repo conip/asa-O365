@@ -1,7 +1,7 @@
 galaxy_info:
-  author: your name
-  description: your role description
-  company: your company (optional)
+  author: Przemyslaw Konitz
+  description: Updates standard ACL or object-group with the newest Microsoft IPv4 list published on "https://endpoints.office.com" 
+  company: Ensono
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
